@@ -1,6 +1,6 @@
 2016 purdue-ironhack
 ====
-keywords
+Keywords
 ----
 distance to user location, fresh vegetables, price
 
